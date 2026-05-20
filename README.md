@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 저는 박준서입니다 👋</h1>
+<h1 align="center">안녕하세요, 저는 BAK, JUN SEO입니다 👋</h1>
 <h3 align="center">AI로 세상을 바꾸고 싶은 개발자 · 창업 준비생</h3>
 
 <p align="center">
