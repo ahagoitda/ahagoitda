@@ -13,7 +13,6 @@
 - 🚀 AI 소프트웨어 스타트업을 향해 달려가는 중
 - 🤖 **Local LLM**(Ollama), 임베디드 AI, AI 코딩 자동화에 깊은 관심
 - 🎮 방치형 무협 퍼즐 게임 개발 중 (**무공키우기**)
-- 📍 위치 기반 랜덤 추천 앱 **돌먹** MVP 완료
 - 🌐 Blog: [ahagoitda.github.io/personal-website](https://ahagoitda.github.io/personal-website/)
 
 ---
@@ -34,7 +33,6 @@
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
 | [무공키우기](https://github.com/ahagoitda/puzzle-game) | 비급서를 수집·합성하는 방치형 무협 퍼즐 게임 | 게임 개발 |
-| 돌먹 | 위치 기반 랜덤 맛집 추천 앱 (MVP 완료) | Android |
 
 ---
 
