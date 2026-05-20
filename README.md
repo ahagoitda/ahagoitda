@@ -11,6 +11,7 @@
 
 - 🎓 **서울과학기술대학교** 인공지능응용학과 1학년
 - 🚀 AI 소프트웨어 스타트업을 향해 달려가는 중
+- 🏆 **모두의 창업 프로젝트 2026** 참가 중 (:중기부 주관 대국네 창업 오디션)
 - 🤖 **Local LLM**(Ollama), 임베디드 AI, AI 코딩 자동화에 깊은 관심
 - 🎮 방치형 무협 퍼즐 게임 개발 중 (**무공키우기**)
 - 🌐 Blog: [ahagoitda.github.io/personal-website](https://ahagoitda.github.io/personal-website/)
