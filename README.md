@@ -14,7 +14,6 @@
 - 🤖 **Local LLM**(Ollama), 임베디드 AI, AI 코딩 자동화에 깊은 관심
 - 🎮 방치형 무협 퍼즐 게임 개발 중 (**무공키우기**)
 - 📍 위치 기반 랜덤 추천 앱 **돌먹** MVP 완료
-- ✍️ 웹소설 쓰기, 애니·서브컬처 좋아함
 - 🌐 Blog: [ahagoitda.github.io/personal-website](https://ahagoitda.github.io/personal-website/)
 
 ---
@@ -50,5 +49,5 @@
 
 ## 📫 Contact
 
-- 📧 Email: *(추후 추가)*
+- 📧 Email: [junseobag796@gmail.com](mailto:junseobag796@gmail.com)
 - 🌐 Blog: [ahagoitda.github.io/personal-website](https://ahagoitda.github.io/personal-website/)
